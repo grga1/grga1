@@ -6,16 +6,16 @@ I'm Filip, a passionate Software engineer from Strumica. Welcome to my GitHub pr
 ## About Me
 
 - 🎓 First year at the Faculty of Computer Science and Engineering-FCSE in Skopje.
-- 🔭 I'm currently working on [Current Project/Job]
+- 🔭 I'm currently working on 
 - 🌱 I'm constantly learning and exploring new technologies
 - 👯 I'm open to collaboration and always interested in new projects
 
 ## Skills
 
 - 💻 Programming Languages: C++,CSS,HTML
-- 🛠️ Technologies & Tools: [List your tools and technologies]
-- 📊 Data Analysis: [List relevant tools or frameworks]
-- ⚙️ DevOps: [List relevant tools or practices]
+- 🛠️ Technologies & Tools:
+- 📊 Data Analysis: 
+- ⚙️ DevOps: 
 
 ## Projects
 
