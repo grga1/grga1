@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Filip, a passionate Software engineer from Strumica. Welcome to my GitHub profile!
+I'm Filip, a passionate software engineer from Strumica. Welcome to my GitHub profile!
 
 ## About Me
 
