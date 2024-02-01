@@ -34,7 +34,7 @@ Feel free to explore more on my [GitHub Repositories](link-to-repositories).
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&count_private=true&hide_rank=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=grga1&show_icons=true&hide=prs&count_private=true&hide_rank=true)
 
 <!-- Additional Badges, if any -->
 
