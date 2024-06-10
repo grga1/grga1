@@ -12,8 +12,8 @@ I'm Filip, a passionate software engineer from Strumica,Macedonia. Welcome to my
 
 ## Skills
 
-- 💻 Programming Languages: C++,CSS,HTML
-- 🛠️ Technologies & Tools:Bootstrap 
+- 💻 Programming Languages: C++
+- 🛠️ Technologies & Tools: CSS,HTML,Bootstrap
 - 📊 Data Analysis: 
 - ⚙️ DevOps: 
 
@@ -28,7 +28,7 @@ Feel free to explore more on my [GitHub Repositories](link-to-repositories).
 
 ## Connect with Me
 
-- 📧 Email:
+- 📧 Email: iliev.filip.2011@gmail.com
 - 💼 LinkedIn: 
 - 🐦 Twitter:
 
