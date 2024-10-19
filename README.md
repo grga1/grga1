@@ -1,18 +1,18 @@
 
 # Hi there! 👋
 
-I'm Filip, a passionate software engineer from Strumica,Macedonia. Welcome to my GitHub profile!
+I'm Filip, a passionate software engineer from Strumica, Macedonia. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 First year at the Faculty of Computer Science and Engineering-FCSE in Skopje.
+- 🎓 Second year at the Faculty of Computer Science and Engineering-FCSE in Skopje.
 - 🔭 I'm currently working on 
 - 🌱 I'm constantly learning and exploring new technologies
 - 👯 I'm open to collaboration and always interested in new projects
 
 ## Skills
 
-- 💻 Programming Languages: C++,Java
+- 💻 Programming Languages: C++, Java, JavaScript
 - 🛠️ Technologies & Tools: CSS,HTML,Bootstrap
 - 📊 Data Analysis: 
 - ⚙️ DevOps: 
