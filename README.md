@@ -12,7 +12,7 @@ I'm Filip, a passionate software engineer from Strumica,Macedonia. Welcome to my
 
 ## Skills
 
-- 💻 Programming Languages: C++
+- 💻 Programming Languages: C++,Java
 - 🛠️ Technologies & Tools: CSS,HTML,Bootstrap
 - 📊 Data Analysis: 
 - ⚙️ DevOps: 
