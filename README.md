@@ -3,6 +3,17 @@
 
 I'm Filip, a passionate software engineer from Strumica, Macedonia. Welcome to my GitHub profile!
 
+# My GitHub Stats 🔥
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=grga1&show_icons=true&theme=dark)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grga1&layout=compact&theme=dark)
+
+## 🏆 My GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=grga1&theme=dark)
+
+
 ## About Me
 
 - 🎓 Second year at the Faculty of Computer Science and Engineering-FCSE in Skopje.
