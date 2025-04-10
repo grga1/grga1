@@ -7,10 +7,6 @@ I'm Filip, a passionate software engineer from Strumica, Macedonia. Welcome to m
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=grga1&show_icons=true&theme=dark)
 
-## 🏆 GitHub Achievements
-
-Check out my [GitHub Achievements](https://github.com/users/grga1/achievements)!
-
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grga1&layout=compact&theme=dark)
 
