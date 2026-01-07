@@ -16,7 +16,7 @@ I'm Filip, a passionate software engineer from Strumica, Macedonia. Welcome to m
 
 ## About Me
 
-- 🎓 Second year at the Faculty of Computer Science and Engineering-FCSE in Skopje.
+- 🎓 Third year at the Faculty of Computer Science and Engineering-FCSE in Skopje.
 - 🔭 I'm currently working on 
 - 🌱 I'm constantly learning and exploring new technologies
 - 👯 I'm open to collaboration and always interested in new projects
@@ -24,9 +24,6 @@ I'm Filip, a passionate software engineer from Strumica, Macedonia. Welcome to m
 ## Skills
 
 - 💻 Programming Languages: C++, Java, JavaScript,C#,Python,Shell
-- 🛠️ Technologies & Tools: CSS,HTML,Bootstrap,Asp.Net
-- 📊 Data Analysis: 
-- ⚙️ DevOps: 
 
 ## Projects
 
